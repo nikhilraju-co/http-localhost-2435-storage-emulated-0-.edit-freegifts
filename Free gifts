@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Python Code in HTML</title>
+</head>
+<body>
+    <script>
+        function openLink() {
+            window.open("https://youtu.be/QWlbh7xnoI8?si=xpabf9lg96zGhz4b", "_blank");
+        }
+    </script>
+
+    <p><a href="#" onclick="openLink(); return false;">claim your gift for free</a></p>
+
+    
+</body>
+	</html>
